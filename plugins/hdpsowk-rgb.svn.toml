@@ -4,3 +4,8 @@ repository = "https://github.com/hdpsowk-rgb/openidea-svn"
 version = "0.1.3"
 package = "https://github.com/hdpsowk-rgb/openidea-svn/releases/download/v0.1.3/hdpsowk-rgb.svn-0.1.3.oiplugin"
 sha256 = "fc25cd68294f4861fb0832baa5146a336c657e3ea639b03c8bb3778e3c2b1e17"
+
+[[versions]]
+version = "0.1.5"
+package = "https://github.com/hdpsowk-rgb/openidea-svn/releases/download/v0.1.5/hdpsowk-rgb.svn-0.1.5.oiplugin"
+sha256 = "11781067dde1cee634edb12968900597091b0aa71998df6656c0c2f5fcf67657"
