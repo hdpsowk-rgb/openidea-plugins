@@ -19,3 +19,8 @@ sha256 = "a74a0709c78a6dc5cafd3844b2f198fb2ca6691bd52a98b05d8bc6bb6822a025"
 version = "0.1.10"
 package = "https://github.com/hdpsowk-rgb/openidea-svn/releases/download/v0.1.10/hdpsowk-rgb.svn-0.1.10.oiplugin"
 sha256 = "2f06bc2ed2808173b8c740833b039ada2f09abb4286b5a3751b575198244ca92"
+
+[[versions]]
+version = "0.1.11"
+package = "https://github.com/hdpsowk-rgb/openidea-svn/releases/download/v0.1.11/hdpsowk-rgb.svn-0.1.11.oiplugin"
+sha256 = "8fc8e190fbf82962612e267779a00caeb6445c0703fad8b63b04748a53552826"
